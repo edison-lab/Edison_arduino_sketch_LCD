@@ -7,3 +7,5 @@ http://edison-lab.jp/examples/
 There are sketches which can be used for LCD in Arduino IDE.
 You can also check our website below where you can get more details.
 http://edison-lab.jp/examples/
+
+
